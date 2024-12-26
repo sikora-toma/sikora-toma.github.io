@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Split, Croatia"
-  employer         : [FESB, University of Split] (https://eng.fesb.unist.hr/)
+  employer         : <a href="https://eng.fesb.unist.hr/">FESB, University of Split</a>
   uri              : 
   email            : "toma.sikora@fesb.hr" 
 
