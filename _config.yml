@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "personal website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "sikora-toma"
 description              : &description "personal description"
@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Split, Croatia"
-  employer         : "FESB, University of Split"
-  uri              : "https://eng.fesb.unist.hr/"
+  employer         : [FESB, University of Split] (https://eng.fesb.unist.hr/)
+  uri              : 
   email            : "toma.sikora@fesb.hr" 
 
   # Academic websites
