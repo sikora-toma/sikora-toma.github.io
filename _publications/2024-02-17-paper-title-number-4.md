@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Development of a Dynamic Multi-object Planning Framework for Autonomous Mobile Robots"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/dmop-mostart
+excerpt: 'Recent advancements in autonomous mobile robots (AMRs), such as drones, ground vehicles, and quadrupedal robots, have significantly impacted inspection, emergency response, and surveillance fields. While a large body of work covers topics addressing static scenarios, working with dynamic points of interest remains relatively problematic. The nature of the problem brings with it the real time adaptability challenges, efficient decision making, and uncertainty. Available literature mostly concentrates on research-oriented specialized tools running controlled experiments. However, there is a lack of comprehensive frameworks supporting coverage of scenarios dealing with non stationary objects. This paper introduces a multi-object planning framework for autonomous mobile robots operating with dynamic points of interest. The framework integrates open source software and low level frameworks to simulate multiple agents moving on unknown trajectories. Advanced planning algorithms can be deployed and tested in simulation, as well as the real world AMRs thanks to the software-in-the-loop (SITL) approach. The architecture uses ROS for high level communication, Ardupilot for interfacing with the vehicle hardware, and Gazebo for the physics simulation. Core modules allow configuring various dynamic agents and implementing various planning algorithms. As a proof of the system capabilities, use cases of ship inspection and agriculture monitoring using a UAV are presented. The resulting framework can serve as a basis for research, education, and deployment purposes on the topic of advanced planning algorithms for AMRs.'
+date: 2023-07-03
+venue: 'MoStart 2024'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-62058-4_13'
+citation: 'Sikora, T., & Papic, V. (2024, April). Development of a Dynamic Multi-object Planning Framework for Autonomous Mobile Robots. In International Conference on Digital Transformation in Education and Artificial Intelligence Application (pp. 215-228). Cham: Springer Nature Switzerland.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
