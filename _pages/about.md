@@ -9,7 +9,7 @@ redirect_from:
 
 I'm currently working on the control of a [drone](https://github.com/sikora-toma/drone-project) I built from scratch, [force profile tracking](https://github.com/sikora-toma/isaac_rl_push) with a manipulator through RL in [IsaacLab](https://github.com/isaac-sim/IsaacLab), generating traditional folk melody with diffusion algorithms, and UAV navigation algorithms for inspection of dynamic objects for my PhD at FESB, Split.
 
-I previously worked on autonomous driving stack for the [Duckietown project](https://github.com/duckietown/gym-duckietown) with the [PoliDuckie team](https://github.com/poliduckie), learning trajectory tracking for an autonomous surface vehicle in urban waterways ([article] (https://www.mdpi.com/2079-3197/11/11/216)), and positioning systems for UAVs in operating wind turbine inspection ([article] (https://arxiv.org/abs/2306.14637)) and robotic manipulators in a nuclear vessel of a nuclear power plant ([article] (https://repozitorij.fer.unizg.hr/islandora/object/fer:11565)).
+I previously worked on autonomous driving stack for the [Duckietown project](https://github.com/duckietown/gym-duckietown) with the [PoliDuckie team](https://github.com/poliduckie), learning trajectory tracking for an autonomous surface vehicle in urban waterways ([article](https://www.mdpi.com/2079-3197/11/11/216)), and positioning systems for UAVs in operating wind turbine inspection ([article](https://arxiv.org/abs/2306.14637)) and robotic manipulators in a nuclear vessel of a nuclear power plant ([article](https://repozitorij.fer.unizg.hr/islandora/object/fer:11565)).
 
 ### Projects
 - `drone-project`: a quadcopter built from scratch.
